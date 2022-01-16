@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Skript, Html, Css, PHP
 - 🌱 I’m currently learning ... Skript, Javascript, Css, PHP, Java
 - 💞️ I’m looking to collaborate on ... Websites, Skripts and plugins
-- 📫 How to reach me ... Discord Marra#0001
+- 📫 How to reach me ... Discord Marra#9776
