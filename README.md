@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotMarra
-- 👀 I’m interested in ... Skript, Html, Css, PHP
-- 🌱 I’m currently learning ... Skript, Javascript, Css, PHP, Java, C#
-- 💞️ I’m looking to collaborate on ... Websites, Skripts and plugins, Games
+- 👀 I’m interested in ...  Html, Css, PHP, Java
+- 🌱 I’m currently learning ... Javascript, Css, PHP, Java, C#
+- 💞️ I’m looking to collaborate on ... Websites, Plugins, Games
 - 📫 How to reach me ... Discord Marra#9776
