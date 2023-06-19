@@ -2,4 +2,4 @@
 - 👀 I’m interested in ...  Html, Css, Javascript, Node.js
 - 🌱 I’m currently learning ... Javascript, Css, Node.js
 - 💞️ I’m looking to collaborate on ... Websites
-- 📫 How to reach me ... Discord Marra#9776
+- 📫 How to reach me ... Discord notmarra
