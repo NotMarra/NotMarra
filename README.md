@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotMarra
-- 👀 I’m interested in ...  Websites, Minecraft plugins 
-- 🌱 I’m currently learning ... Javascript, Css, Java, C, Python
-- 💞️ I’m looking to collaborate on ... Websites
+- 👀 I’m interested in ...  Minecraft plugins, Golang 
+- 🌱 I’m currently learning ... Java, C++ & GO
+- 💞️ I’m looking to collaborate on ... Mby custom 2d engine written in GOlang
 - 📫 How to reach me ... Discord notmarra
